@@ -1,5 +1,15 @@
 # Git Recap
 
+## Git workflow
+
+  1. working directory
+     > git add
+  2. staging area
+     > git commit
+  3. local repository
+     > git push
+  4. remote repository
+
 ## Git Commands
 
 - `git init` - initializes a new git repository
